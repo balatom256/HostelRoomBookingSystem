@@ -5,8 +5,8 @@
 
      Introduction
 
-    The Hostel Room Booking and Fees Management System is a console-based Python application developed to help a hostel warden manage student accommodation and hostel fees. 
-    It replaces a paper-based hostel ledger with a computerized system for registering students, allocating rooms, recording fee payments, searching records, monitoring occupancy, identifying fee defaulters, and saving records for use across multiple program runs.
+    The Hostel Room Booking and Fees Management System is a console-based Python application developed to help a hostel warden manage student accommodation and hostel fees.
+    It replaces a paper-based hostel ledger with a computerized system for registering students, allocating rooms, recording fee payments,searching records,monitoring occupancy,identifying fee defaulters,and saving records for use across multiple program runs.
 
      Main Objectives
 
