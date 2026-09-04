@@ -1,0 +1,164 @@
+{
+    "students": {
+        "2026/bcs/001": {
+            "name": "Okello Tommy",
+            "course": "Bcs",
+            "year": "2",
+            "phone": "07574747474",
+            "block": "Block A",
+            "room": "A101",
+            "total_fee": 500000.0,
+            "payments": [
+                350000.0,
+                100000.0,
+                50000.0
+            ]
+        },
+        "2026/bcs/002": {
+            "name": "Adakun Marry",
+            "course": "BCS",
+            "year": "2",
+            "phone": "0774663633",
+            "block": "Block B",
+            "room": "B201",
+            "total_fee": 500000.0,
+            "payments": [
+                400000.0
+            ]
+        },
+        "2026/bit/003": {
+            "name": "Abako Stella",
+            "course": "BIT",
+            "year": "2",
+            "phone": "0786636363",
+            "block": "Block C",
+            "room": "C301",
+            "total_fee": 600000.0,
+            "payments": [
+                450000.0
+            ]
+        },
+        "2023/bcs/001": {
+            "name": "Justus Tumbabaze",
+            "course": "DIT",
+            "year": "2",
+            "phone": "07773336633",
+            "block": null,
+            "room": null,
+            "total_fee": 550000.0,
+            "payments": []
+        },
+        "2025/bit/001": {
+            "name": "Amanya Isaac",
+            "course": "BIT",
+            "year": "2",
+            "phone": "0774647834",
+            "block": "Block C",
+            "room": "C301",
+            "total_fee": 700000.0,
+            "payments": [
+                600000.0
+            ]
+        },
+        "2025/bcs/002": {
+            "name": "Awal David",
+            "course": "BCS",
+            "year": "3",
+            "phone": "0799343322",
+            "block": "Block B",
+            "room": "B201",
+            "total_fee": 500000.0,
+            "payments": [
+                450000.0
+            ]
+        },
+        "2024/DIT/002": {
+            "name": "OPIA JOLLY",
+            "course": "DIT",
+            "year": "1",
+            "phone": "07999347372",
+            "block": "Block B",
+            "room": "B202",
+            "total_fee": 600000.0,
+            "payments": []
+        }
+    },
+    "hostel_blocks": {
+        "Block A": {
+            "A101": {
+                "capacity": 4,
+                "students": [
+                    "2026/bcs/001"
+                ]
+            },
+            "A102": {
+                "capacity": 4,
+                "students": []
+            },
+            "A103": {
+                "capacity": 4,
+                "students": []
+            },
+            "A104": {
+                "capacity": 4,
+                "students": []
+            },
+            "A105": {
+                "capacity": 4,
+                "students": []
+            }
+        },
+        "Block B": {
+            "B201": {
+                "capacity": 4,
+                "students": [
+                    "2026/bcs/002",
+                    "2025/bcs/002"
+                ]
+            },
+            "B202": {
+                "capacity": 4,
+                "students": [
+                    "2024/DIT/002"
+                ]
+            },
+            "B203": {
+                "capacity": 4,
+                "students": []
+            },
+            "B204": {
+                "capacity": 4,
+                "students": []
+            },
+            "B205": {
+                "capacity": 4,
+                "students": []
+            }
+        },
+        "Block C": {
+            "C301": {
+                "capacity": 3,
+                "students": [
+                    "2026/bit/003",
+                    "2025/bit/001"
+                ]
+            },
+            "C302": {
+                "capacity": 3,
+                "students": []
+            },
+            "C303": {
+                "capacity": 3,
+                "students": []
+            },
+            "C304": {
+                "capacity": 3,
+                "students": []
+            },
+            "C305": {
+                "capacity": 3,
+                "students": []
+            }
+        }
+    }
+}
