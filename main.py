@@ -26,11 +26,6 @@ def create_default_hostel_blocks():
             "B204": {"capacity": 4, "students": []},
             "B205": {"capacity": 4, "students": []}
         },
-
-
-
-        
-
         "Block C": {
             "C301": {"capacity": 3, "students": []},
             "C302": {"capacity": 3, "students": []},
