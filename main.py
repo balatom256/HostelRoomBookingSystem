@@ -19,11 +19,6 @@ def create_default_hostel_blocks():
             "A105": {"capacity": 4, "students": []}
         },
 
-
-
-
-        
-
         "Block B": {
             "B201": {"capacity": 4, "students": []},
             "B202": {"capacity": 4, "students": []},
